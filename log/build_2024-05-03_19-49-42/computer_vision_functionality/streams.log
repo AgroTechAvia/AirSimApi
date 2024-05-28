@@ -1,0 +1,29 @@
+[0.779s] Invoking command in '/home/senya/ros2_ws/src/computer_vision_functionality': PYTHONPATH=/home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/prefix_override:/home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 setup.py egg_info --egg-base build/computer_vision_functionality build --build-base /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build install --record /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/install.log --single-version-externally-managed
+[1.011s] running egg_info
+[1.011s] writing build/computer_vision_functionality/computer_vision_functionality.egg-info/PKG-INFO
+[1.012s] writing dependency_links to build/computer_vision_functionality/computer_vision_functionality.egg-info/dependency_links.txt
+[1.013s] writing entry points to build/computer_vision_functionality/computer_vision_functionality.egg-info/entry_points.txt
+[1.013s] writing requirements to build/computer_vision_functionality/computer_vision_functionality.egg-info/requires.txt
+[1.013s] writing top-level names to build/computer_vision_functionality/computer_vision_functionality.egg-info/top_level.txt
+[1.016s] reading manifest file 'build/computer_vision_functionality/computer_vision_functionality.egg-info/SOURCES.txt'
+[1.020s] writing manifest file 'build/computer_vision_functionality/computer_vision_functionality.egg-info/SOURCES.txt'
+[1.020s] running build
+[1.020s] running build_py
+[1.020s] copying computer_vision_functionality/get_point_cloud_by_lidar_from_airsim_node.py -> /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build/lib/computer_vision_functionality
+[1.020s] copying computer_vision_functionality/get_image_from_airsim_node.py -> /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build/lib/computer_vision_functionality
+[1.021s] running install
+[1.021s] running install_lib
+[1.022s] copying /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build/lib/computer_vision_functionality/get_point_cloud_by_lidar_from_airsim_node.py -> /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality
+[1.023s] copying /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build/lib/computer_vision_functionality/get_image_from_airsim_node.py -> /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality
+[1.024s] byte-compiling /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality/get_point_cloud_by_lidar_from_airsim_node.py to get_point_cloud_by_lidar_from_airsim_node.cpython-310.pyc
+[1.025s] byte-compiling /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality/get_image_from_airsim_node.py to get_image_from_airsim_node.cpython-310.pyc
+[1.025s] running install_data
+[1.026s] running install_egg_info
+[1.027s] removing '/home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality-0.0.0-py3.10.egg-info' (and everything under it)
+[1.028s] Copying build/computer_vision_functionality/computer_vision_functionality.egg-info to /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages/computer_vision_functionality-0.0.0-py3.10.egg-info
+[1.030s] running install_scripts
+[1.049s] Installing get_image_from_airsim_node script to /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/computer_vision_functionality
+[1.049s] Installing read_lidar_node script to /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/computer_vision_functionality
+[1.049s] Installing recognition_of_aruco_marker_node script to /home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/computer_vision_functionality
+[1.049s] writing list of installed files to '/home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/install.log'
+[1.081s] Invoked command in '/home/senya/ros2_ws/src/computer_vision_functionality' returned '0': PYTHONPATH=/home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/prefix_override:/home/senya/ros2_ws/src/computer_vision_functionality/install/computer_vision_functionality/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 setup.py egg_info --egg-base build/computer_vision_functionality build --build-base /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/build install --record /home/senya/ros2_ws/src/computer_vision_functionality/build/computer_vision_functionality/install.log --single-version-externally-managed
